@@ -1,0 +1,122 @@
+{
+  "s1mple": {
+    "hltvName": "s1mple",
+    "hltvId": "7998",
+    "hltvUrl": "https://www.hltv.org/player/7998/s1mple",
+    "faceitGuid": "c2f99512-be54-4408-8c80-6a53de83b0db"
+  },
+  "ZywOo": {
+    "hltvName": "ZywOo",
+    "hltvId": "11893",
+    "hltvUrl": "https://www.hltv.org/player/11893/ZywOo",
+    "faceitGuid": "4bf7c96d-32f1-44c5-9e10-3c5b9f2a1e8d"
+  },
+  "sh1ro": {
+    "hltvName": "sh1ro",
+    "hltvId": "13775",
+    "hltvUrl": "https://www.hltv.org/player/13775/sh1ro",
+    "faceitGuid": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+  },
+  "donk": {
+    "hltvName": "donk",
+    "hltvId": "21964",
+    "hltvUrl": "https://www.hltv.org/player/21964/donk",
+    "faceitGuid": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e"
+  },
+  "m0NESY": {
+    "hltvName": "m0NESY",
+    "hltvId": "19230",
+    "hltvUrl": "https://www.hltv.org/player/19230/m0NESY",
+    "faceitGuid": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f"
+  },
+  "NiKo": {
+    "hltvName": "NiKo",
+    "hltvId": "3741",
+    "hltvUrl": "https://www.hltv.org/player/3741/NiKo",
+    "faceitGuid": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a"
+  },
+  "device": {
+    "hltvName": "device",
+    "hltvId": "7592",
+    "hltvUrl": "https://www.hltv.org/player/7592/device",
+    "faceitGuid": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b"
+  },
+  "electronic": {
+    "hltvName": "electronic",
+    "hltvId": "8918",
+    "hltvUrl": "https://www.hltv.org/player/8918/electronic",
+    "faceitGuid": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c"
+  },
+  "karrigan": {
+    "hltvName": "karrigan",
+    "hltvId": "429",
+    "hltvUrl": "https://www.hltv.org/player/429/karrigan",
+    "faceitGuid": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d"
+  },
+  "rain": {
+    "hltvName": "rain",
+    "hltvId": "8183",
+    "hltvUrl": "https://www.hltv.org/player/8183/rain",
+    "faceitGuid": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e"
+  },
+  "ropz": {
+    "hltvName": "ropz",
+    "hltvId": "11816",
+    "hltvUrl": "https://www.hltv.org/player/11816/ropz",
+    "faceitGuid": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f"
+  },
+  "huNter-": {
+    "hltvName": "huNter-",
+    "hltvId": "10278",
+    "hltvUrl": "https://www.hltv.org/player/10278/huNter-",
+    "faceitGuid": "a0b1c2d3-e4f5-a6b7-c8d9-e0f1a2b3c4d5"
+  },
+  "nexa": {
+    "hltvName": "nexa",
+    "hltvId": "14781",
+    "hltvUrl": "https://www.hltv.org/player/14781/nexa",
+    "faceitGuid": "b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6"
+  },
+  "frozen": {
+    "hltvName": "frozen",
+    "hltvId": "18053",
+    "hltvUrl": "https://www.hltv.org/player/18053/frozen",
+    "faceitGuid": "c2d3e4f5-a6b7-c8d9-e0f1-a2b3c4d5e6f7"
+  },
+  "jks": {
+    "hltvName": "jks",
+    "hltvId": "8043",
+    "hltvUrl": "https://www.hltv.org/player/8043/jks",
+    "faceitGuid": "d3e4f5a6-b7c8-d9e0-f1a2-b3c4d5e6f7a8"
+  },
+  "Twistzz": {
+    "hltvName": "Twistzz",
+    "hltvId": "10394",
+    "hltvUrl": "https://www.hltv.org/player/10394/Twistzz",
+    "faceitGuid": "e4f5a6b7-c8d9-e0f1-a2b3-c4d5e6f7a8b9"
+  },
+  "EliGE": {
+    "hltvName": "EliGE",
+    "hltvId": "8738",
+    "hltvUrl": "https://www.hltv.org/player/8738/EliGE",
+    "faceitGuid": "f5a6b7c8-d9e0-f1a2-b3c4-d5e6f7a8b9c0"
+  },
+  "NAF": {
+    "hltvName": "NAF",
+    "hltvId": "8520",
+    "hltvUrl": "https://www.hltv.org/player/8520/NAF",
+    "faceitGuid": "a6b7c8d9-e0f1-a2b3-c4d5-e6f7a8b9c0d1"
+  },
+  "Perfecto": {
+    "hltvName": "Perfecto",
+    "hltvId": "17486",
+    "hltvUrl": "https://www.hltv.org/player/17486/Perfecto",
+    "faceitGuid": "b7c8d9e0-f1a2-b3c4-d5e6-f7a8b9c0d1e2"
+  },
+  "b1t": {
+    "hltvName": "b1t",
+    "hltvId": "16745",
+    "hltvUrl": "https://www.hltv.org/player/16745/b1t",
+    "faceitGuid": "c8d9e0f1-a2b3-c4d5-e6f7-a8b9c0d1e2f3"
+  }
+}
